@@ -31,6 +31,12 @@ Qualquer dúvida, entre em contato pelo meu [LinkedIn](https://www.linkedin.com/
   Permite a internacionalização de um site, de maneira mais facilitada. Foi utilizada a versão que permite a internacionalização no back-end, o que facilita o SEO do site e permite uma indexação melhorada. As linguagens suportadas até o momento são, Português, Inglês e Espanhol.
 - #### firebase
   É uma solução oferecida pela Google, que possui várias funcionalidades, mas no momento estou utilizando apenas o Firestore Database, para armazenar os feedbacks e bugs relatados pelos usuários.
+- #### Git
+  O Git é uma ferramenta de versionamento de código, que permite organizar melhor a produção de software.
+- #### GitHub
+  Foi escolhido como plataforma de hospedagem de código.
+- #### Vercel
+  É a plataforma usada para a hospedagem do site.
 
 ## Funcionalidades
 
